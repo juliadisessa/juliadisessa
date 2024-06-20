@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @juliadisessa
+- 👀 I’m interested in ... learn about github and software test.
+- 🌱 I’m currently learning ... github
+- 📫 How to reach me ... at LinkedIn [@juliamatias](https://www.linkedin.com/in/julia-carolina-matias-di-sessa-michel-0971ab102/)
